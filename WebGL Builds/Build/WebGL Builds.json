@@ -1,7 +1,7 @@
 {
 "companyName": "Dukhart",
-"productName": "DukhartPachinko",
-"productVersion": "0.1",
+"productName": "RocketPachinko",
+"productVersion": "1.0",
 "dataUrl": "WebGL Builds.data.unityweb",
 "wasmCodeUrl": "WebGL Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL Builds.wasm.framework.unityweb",
