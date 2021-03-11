@@ -8,7 +8,7 @@ public class Ball : MonoBehaviour
     [SerializeField] GameObject glObject;
     [SerializeField] int speed = 5;
     bool isFalling;
-    private float inAxis;
+    float inAxis;
 
     // Start is called before the first frame update
     void Start()
